@@ -1,7 +1,6 @@
 ### Hi there,I'm Lokesh Vazirani aka Radeon 👋
 
 An Android Developer from India.<br>
-B.E Student.<br>
 -👻 Co-Developer and Maintainer of CipherOS.<br>
 -📱 AOSP Developer for Mediatek devices, having experience of RMX1831 aka Realme U1.<br>
 -🥽 Having a good experience with Linux Kernels.<br>
