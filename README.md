@@ -6,5 +6,5 @@ An Android Developer from India.<br>
 -🥽 Having a good experience with Linux Kernels.<br>
 -🐨 Learning Kotlin, Java, C, C++.<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RADEON7&style=flat-square" alt="Radeon790" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Radeon790&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LokeshV790&style=flat-square" alt="LokeshV790" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LokeshV790&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
