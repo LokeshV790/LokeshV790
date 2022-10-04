@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Lokesh+Vazirani+%3C3;I'+am+a+1st+yr+Undergraduate+at+GHRCE;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Lokesh+Vazirani+%3C3;I'+am+a+2nd+yr+Undergraduate+at+GHRCE;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
