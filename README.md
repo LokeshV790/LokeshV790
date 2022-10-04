@@ -12,7 +12,7 @@
 <br/>
 <p align="left">
   <a href="https://lokeshv790.github.io/LokeshV.github.io/">
-  <--<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LokeshV790&show_icons=true&theme=blueberry&hide_border=true" />-->
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LokeshV790&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshV790&theme=blueberry&hide_border=true" />
   </a>
 </p>
